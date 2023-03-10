@@ -1,0 +1,19 @@
+[
+    {
+      "gameName": "Key collector",
+      "items": [
+        { "name": "Red key", "type": "stacking" },
+        { "name": "Yellow key", "type": "stacking" },
+        { "name": "Green key", "type": "binary" },
+        { "name": "Blue key", "type": "stacking" }
+      ]  
+    },
+    {
+      "gameName": "Character Inventory",
+      "items": [
+        { "name": "Missile launcher", "type": "binary" },
+        { "name": "Boomerang", "type": "exclusive", "options": ["Red boomerang", "Blue boomerang"] },
+        { "name": "Coat", "type": "exclusive", "options": ["Lab coat", "Trench coat"] } 
+      ]
+    }
+  ]
